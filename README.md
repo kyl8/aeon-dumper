@@ -1,1 +1,1 @@
-aeon dumper is a fflag and roblox dumper that originattaly from avablox dumper created by lilgeorgey36 (from uc forums) that itself is a fork of jonah's dumper.
+aeon dumper is an fflag and roblox dumper that originally came from avablox dumper, created by lilgeorgey36 (from the uc forums), which itself is a fork of jxnahs dumper.
